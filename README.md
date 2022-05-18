@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository Project](https://github.com/Samuel-Amaro/single-price-grid-component)
+- Live Site URL: [Result Solution Live](https://github.com/Samuel-Amaro/single-price-grid-component)
 
 ## My process
 
@@ -43,8 +43,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Samuel-Amaro](https://www.your-site.com)
-- Frontend Mentor - [@Samuel-Amaro](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Samuel-Amaro](https://github.com/Samuel-Amaro)
+- Frontend Mentor - [@Samuel-Amaro](https://www.frontendmentor.io/profile/Samuel-Amaro)
 
 
 
